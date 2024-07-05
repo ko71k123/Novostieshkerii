@@ -1,0 +1,44 @@
+header{
+height: 2000pxpx ; /*Максимы везде...*/
+background-color:rgb(216, 201, 201) ;
+color: rgb(54, 23, 23);
+font-size: 100px;
+background-size:100px;}
+.left{
+    width: 50%;
+    font-size: 200px;
+    display: flex;
+}
+
+.right{
+    width: 50%;
+    font-size: 200px;
+    display: flex;
+}
+footer{
+    background-color: black;
+    color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+
+main{
+background-color: black;
+color: red;
+padding: 20px;
+text-align: center;
+}
+.social img{
+    width: 100px;
+    padding-left: 10px;
+}
+    
+    .social {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    
+    
